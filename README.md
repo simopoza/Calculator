@@ -4,6 +4,10 @@ A simple, responsive calculator built with React, without using any external lib
 Demo
 Check out the live demo here: https://calculator-two-jade.vercel.app/.
 
+![Alt text](https://raw.githubusercontent.com/simopoza/Calculator/main/calculatorPc.png)
+![Alt text](https://raw.githubusercontent.com/simopoza/Calculator/main/calculatorPhone.png)
+![Alt text](https://raw.githubusercontent.com/simopoza/Calculator/main/calculatorTablet.png)
+
 Features
 Basic arithmetic operations (addition, subtraction, multiplication, division)
 Responsive design for mobile and desktop
